@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "id": "test_pack",
+      "title": "테스트 단어팩",
+      "description": "연결 테스트용",
+      "version": 1,
+      "path": "wordpacks/test_pack.json",
+      "enabled": true
+    }
+  ]
+}
