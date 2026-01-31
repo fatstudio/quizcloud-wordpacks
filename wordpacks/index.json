@@ -13,7 +13,15 @@
       "title": "중등 영단어 300제",
       "description": "중등 영단어",
       "version": 1,
-      "path": "wordpacks/element.json",
+      "path": "wordpacks/middle.json",
+      "enabled": true
+    },
+    {
+      "id": "high",
+      "title": "고등 영단어 300제",
+      "description": "고등 영단어",
+      "version": 1,
+      "path": "wordpacks/high.json",
       "enabled": true
     }
   ]
