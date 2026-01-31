@@ -2,10 +2,10 @@
   "packs": [
     {
       "id": "element",
-      "title": "테스트 단어팩",
-      "description": "연결 테스트용",
+      "title": "초등 영단어 300제",
+      "description": "초등 영단어",
       "version": 1,
-      "path": "wordpacks/test_pack.json",
+      "path": "wordpacks/element.json",
       "enabled": true
     }
   ]
