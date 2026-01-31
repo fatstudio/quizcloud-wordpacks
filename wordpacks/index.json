@@ -1,7 +1,7 @@
 {
   "packs": [
     {
-      "id": "test_pack",
+      "id": "element",
       "title": "테스트 단어팩",
       "description": "연결 테스트용",
       "version": 1,
