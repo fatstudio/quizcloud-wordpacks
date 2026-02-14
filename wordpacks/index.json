@@ -23,6 +23,13 @@
       "version": 1,
       "path": "wordpacks/high.json",
       "enabled": true
-    }
+    },
+    {
+      "id": toeic,
+      "tittle": "토익 단어 1000제,
+      "description": "토익 단어",
+      "version": 1,
+      "path": "wordpacks/high.json",
+      "enabled": true
   ]
 }
